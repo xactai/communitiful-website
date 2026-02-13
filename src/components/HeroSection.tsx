@@ -24,7 +24,7 @@ const HeroSection = () => {
             </div>
 
             <h1 className="font-heading text-5xl lg:text-6xl font-bold text-white mb-6 leading-tight">
-              A Very Safe Space for Companions,{" "}
+              A Safe Space for Companions,{" "}
               <span className="text-white/90">Right Outside the Clinic</span>
             </h1>
 
