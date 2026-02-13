@@ -11,8 +11,8 @@ const queryClient = new QueryClient();
 // Get the base path from the current location
 const getBasePath = () => {
   const pathname = window.location.pathname;
-  if (pathname.startsWith('/Communitiful/')) {
-    return '/Communitiful';
+  if (pathname.startsWith('/communitiful-website/')) {
+    return '/communitiful-website';
   }
   return '';
 };
